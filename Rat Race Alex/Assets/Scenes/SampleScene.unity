@@ -715,7 +715,7 @@ GameObject:
   - component: {fileID: 1105316459}
   - component: {fileID: 1105316458}
   m_Layer: 0
-  m_Name: pot plant top right
+  m_Name: SideTable 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -768,10 +768,10 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 8
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.6759523, g: 0.89868855, b: 0.9245283, a: 1}
+  m_Color: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -789,8 +789,8 @@ Transform:
   m_GameObject: {fileID: 1105316457}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.3154, y: 6.7133, z: 0}
-  m_LocalScale: {x: 2.2770479, y: 2.0881994, z: 1}
+  m_LocalPosition: {x: 14.32, y: 6.3359, z: 0}
+  m_LocalScale: {x: 2.6254363, y: 2.8428748, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -806,7 +806,7 @@ GameObject:
   - component: {fileID: 1112050513}
   - component: {fileID: 1112050512}
   m_Layer: 0
-  m_Name: pot plant top left
+  m_Name: SideTable 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -859,10 +859,10 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 14
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.6759523, g: 0.89868855, b: 0.9245283, a: 1}
+  m_Color: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -880,8 +880,8 @@ Transform:
   m_GameObject: {fileID: 1112050511}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.8826, y: 6.8472, z: 0}
-  m_LocalScale: {x: 2.1996083, y: 2.2043474, z: 1}
+  m_LocalPosition: {x: -4.59, y: 6.76, z: 0}
+  m_LocalScale: {x: 2.1996083, y: 2.9591157, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1354,7 +1354,7 @@ GameObject:
   - component: {fileID: 1613024748}
   - component: {fileID: 1613024747}
   m_Layer: 0
-  m_Name: pot plant bottom right
+  m_Name: SideTable 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1410,7 +1410,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.6759523, g: 0.89868855, b: 0.9245283, a: 1}
+  m_Color: {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1428,8 +1428,8 @@ Transform:
   m_GameObject: {fileID: 1613024746}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 14.81, y: -6.89, z: 0}
-  m_LocalScale: {x: 2.4319274, y: 2.281653, z: 1}
+  m_LocalPosition: {x: 14.17, y: -6.11, z: 0}
+  m_LocalScale: {x: 2.4319274, y: 3.3848321, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1498,7 +1498,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

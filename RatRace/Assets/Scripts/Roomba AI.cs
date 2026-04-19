@@ -7,10 +7,6 @@ public class RoombaAI : MonoBehaviour
     private int waypointIndex = 0;
     private int direction = 1;
 
-    void Start()
-    {
-        transform.position = waypoints[waypointIndex].transform.position;
-    }
 
     void Update()
     {
@@ -21,18 +17,22 @@ public class RoombaAI : MonoBehaviour
     {
         if (waypoints.Length == 0) return;
 
-        transform.position = Vector2.MoveTowards(transform.position, waypoints[waypointIndex].transform.position, roombaSpeed * Time.deltaTime);
+        Vector3 target = waypoints[waypointIndex].position;
+        target.z = transform.position.z;
 
-        if (transform.position == waypoints[waypointIndex].transform.position)
+        transform.position = Vector3.MoveTowards(
+            transform.position,
+            target,
+            roombaSpeed * Time.deltaTime
+        );
+
+        if (Vector2.Distance(transform.position, target) < 0.05f)
         {
             if (waypointIndex == waypoints.Length - 1)
-            {
                 direction = -1;
-            }
             else if (waypointIndex == 0)
-            {
                 direction = 1;
-            }
+
             waypointIndex += direction;
         }
     }

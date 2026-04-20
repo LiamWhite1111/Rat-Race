@@ -2,21 +2,12 @@ using UnityEngine;
 
 public class RoombaAI : MonoBehaviour
 {
-    [SerializeField]
-    private Transform[] waypoints;
-
-    [SerializeField]
-    public float roombaSpeed = 5f;
-
+    [SerializeField] private Transform[] waypoints;
+    [SerializeField] public float roombaSpeed = 5f;
     private int waypointIndex = 0;
+    private int direction = 1;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-       transform.position = waypoints[waypointIndex].transform.position;
-    }
 
-    // Update is called once per frame
     void Update()
     {
         Move();
@@ -24,11 +15,25 @@ public class RoombaAI : MonoBehaviour
 
     private void Move()
     {
-    if (waypointIndex <= waypoints.Length - 1){
-        transform.position = Vector2.MoveTowards(transform.position, waypoints[waypointIndex].transform.position, roombaSpeed * Time.deltaTime);
-        if(transform.position == waypoints[waypointIndex].transform.position){
-            waypointIndex = (waypointIndex + 1)  % waypoints.Length;
+        if (waypoints.Length == 0) return;
+
+        Vector3 target = waypoints[waypointIndex].position;
+        target.z = transform.position.z;
+
+        transform.position = Vector3.MoveTowards(
+            transform.position,
+            target,
+            roombaSpeed * Time.deltaTime
+        );
+
+        if (Vector2.Distance(transform.position, target) < 0.05f)
+        {
+            if (waypointIndex == waypoints.Length - 1)
+                direction = -1;
+            else if (waypointIndex == 0)
+                direction = 1;
+
+            waypointIndex += direction;
         }
-    }
     }
 }

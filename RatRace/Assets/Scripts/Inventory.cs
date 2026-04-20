@@ -3,7 +3,7 @@ using UnityEngine;
 public class Inventory : MonoBehaviour
 {
 	public int maxinv = 5;
-	private int currentinv = 0;
+	public int currentinv = 0;
 
 	private void OnTriggerEnter2D(Collider2D other){
 		if(other.CompareTag("Collectible")){

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 33d77226213bddb448334f0ce9b45e95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6828063620717656669
+    second: Dog Walking Spritesheet_0
+  - first:
+      213: 8336630272028417328
+    second: Dog Walking Spritesheet_1
+  - first:
+      213: 3738105244408325653
+    second: Dog Walking Spritesheet_2
+  - first:
+      213: -8705290972834652576
+    second: Dog Walking Spritesheet_3
+  - first:
+      213: -2159371384010772175
+    second: Dog Walking Spritesheet_4
+  - first:
+      213: -7273956847543330148
+    second: Dog Walking Spritesheet_5
+  - first:
+      213: -412899086470599340
+    second: Dog Walking Spritesheet_6
+  - first:
+      213: -543691345865766807
+    second: Dog Walking Spritesheet_7
+  - first:
+      213: -143738646675248616
+    second: Dog Walking Spritesheet_8
+  - first:
+      213: -6343825792386294183
+    second: Dog Walking Spritesheet_9
+  - first:
+      213: 3260634002600797901
+    second: Dog Walking Spritesheet_10
+  - first:
+      213: 8576771608917563410
+    second: Dog Walking Spritesheet_11
+  - first:
+      213: -3794082763047974854
+    second: Dog Walking Spritesheet_12
+  - first:
+      213: 6618496792701680664
+    second: Dog Walking Spritesheet_13
+  - first:
+      213: 6896134936279438333
+    second: Dog Walking Spritesheet_14
+  - first:
+      213: 1215711442687235584
+    second: Dog Walking Spritesheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 611
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a54b574058dd31a0800000000000000
+      internalID: -6828063620717656669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 617
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d95042019a1b370800000000000000
+      internalID: 8336630272028417328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 611
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516abf91aea60e330800000000000000
+      internalID: 3738105244408325653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 617
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e96c99bf7903780800000000000000
+      internalID: -8705290972834652576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 431
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131f4e5ca2f5802e0800000000000000
+      internalID: -2159371384010772175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 431
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ad8a649c6bd0b90800000000000000
+      internalID: -7273956847543330148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 431
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d26dee776154af0800000000000000
+      internalID: -412899086470599340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 431
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968873ef99b6478f0800000000000000
+      internalID: -543691345865766807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 209
+        width: 86
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a2d606676510ef0800000000000000
+      internalID: -143738646675248616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 215
+        width: 86
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e9ad78d0436f7a0800000000000000
+      internalID: -6343825792386294183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 209
+        width: 86
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6a49b8959104d20800000000000000
+      internalID: 3260634002600797901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 215
+        width: 86
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218df2d2650d60770800000000000000
+      internalID: 8576771608917563410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38c71434d5b85bc0800000000000000
+      internalID: -3794082763047974854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 47
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cbb0444cf99db50800000000000000
+      internalID: 6618496792701680664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 47
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3d810ff2ef3bf50800000000000000
+      internalID: 6896134936279438333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dog Walking Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 47
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00610c2bd131fd010800000000000000
+      internalID: 1215711442687235584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dog Walking Spritesheet_0: -6828063620717656669
+      Dog Walking Spritesheet_1: 8336630272028417328
+      Dog Walking Spritesheet_10: 3260634002600797901
+      Dog Walking Spritesheet_11: 8576771608917563410
+      Dog Walking Spritesheet_12: -3794082763047974854
+      Dog Walking Spritesheet_13: 6618496792701680664
+      Dog Walking Spritesheet_14: 6896134936279438333
+      Dog Walking Spritesheet_15: 1215711442687235584
+      Dog Walking Spritesheet_2: 3738105244408325653
+      Dog Walking Spritesheet_3: -8705290972834652576
+      Dog Walking Spritesheet_4: -2159371384010772175
+      Dog Walking Spritesheet_5: -7273956847543330148
+      Dog Walking Spritesheet_6: -412899086470599340
+      Dog Walking Spritesheet_7: -543691345865766807
+      Dog Walking Spritesheet_8: -143738646675248616
+      Dog Walking Spritesheet_9: -6343825792386294183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -129,9 +129,9 @@ GameObject:
   m_Component:
   - component: {fileID: 339244806}
   - component: {fileID: 339244805}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Hiding spot
-  m_TagString: Passable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -220,9 +220,9 @@ GameObject:
   m_Component:
   - component: {fileID: 441750646}
   - component: {fileID: 441750645}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Pillar
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -311,9 +311,9 @@ GameObject:
   m_Component:
   - component: {fileID: 691481330}
   - component: {fileID: 691481329}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Spawn (2)
-  m_TagString: Enemy Spawn
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -402,9 +402,9 @@ GameObject:
   m_Component:
   - component: {fileID: 708012876}
   - component: {fileID: 708012875}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Bookshelf
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -493,9 +493,9 @@ GameObject:
   m_Component:
   - component: {fileID: 730645841}
   - component: {fileID: 730645840}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Desk
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -584,9 +584,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1044014373}
   - component: {fileID: 1044014372}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Armchair 2
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -675,9 +675,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1203151052}
   - component: {fileID: 1203151051}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: 'Console table '
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -766,9 +766,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1209571323}
   - component: {fileID: 1209571322}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Spawn (3)
-  m_TagString: Enemy Spawn
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -858,7 +858,6 @@ GameObject:
   - component: {fileID: 1410441308}
   - component: {fileID: 1410441307}
   - component: {fileID: 1410441306}
-  - component: {fileID: 1410441309}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -994,9 +993,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1418283964}
   - component: {fileID: 1418283963}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Couch
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1085,9 +1084,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1498638302}
   - component: {fileID: 1498638301}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Coffee table
-  m_TagString: Passable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1176,9 +1175,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1499755070}
   - component: {fileID: 1499755069}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: 'Top wall '
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1267,9 +1266,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1562615776}
   - component: {fileID: 1562615775}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Left wall
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1358,9 +1357,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1683290264}
   - component: {fileID: 1683290263}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Bookshelf 2
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1449,9 +1448,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1727669691}
   - component: {fileID: 1727669690}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Background
-  m_TagString: Background
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1540,9 +1539,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1729804417}
   - component: {fileID: 1729804416}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Bookshelf
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1631,9 +1630,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1776334548}
   - component: {fileID: 1776334547}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Armchair
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1722,9 +1721,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1836766655}
   - component: {fileID: 1836766654}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Spawn (4)
-  m_TagString: Enemy Spawn
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1813,9 +1812,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1874958407}
   - component: {fileID: 1874958406}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Bottom wall
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1904,9 +1903,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1936727323}
   - component: {fileID: 1936727322}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Right wall
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1995,9 +1994,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1999303889}
   - component: {fileID: 1999303888}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: Fireplace
-  m_TagString: Collidable Object
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

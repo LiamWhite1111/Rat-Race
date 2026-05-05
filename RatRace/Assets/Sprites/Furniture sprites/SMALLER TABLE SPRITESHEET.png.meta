@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: e9729a1f19e30da4f866b21526a9b3d7
+=======
+guid: 4ba9e273f79182044b5602fee6878657
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -54,7 +58,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
   spritePixelsToUnits: 200
+=======
+  spritePixelsToUnits: 100
+>>>>>>> Stashed changes
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -107,11 +115,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
+<<<<<<< Updated upstream
         y: 693
         width: 224
         height: 140
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        y: 692
+        width: 225
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> Stashed changes
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -128,12 +144,21 @@ TextureImporter:
       name: SMALLER TABLE SPRITESHEET_1
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
         x: 56
         y: 455
         width: 105
         height: 217
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 55
+        y: 454
+        width: 107
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> Stashed changes
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,7 +175,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream
     spriteID: 964758453d8b8b942b5eb4fd85509c22
+=======
+    spriteID: 
+>>>>>>> Stashed changes
     internalID: 0
     vertices: []
     indices: 
@@ -158,9 +187,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
+<<<<<<< Updated upstream
       entries:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+=======
+      entries: []
+>>>>>>> Stashed changes
     nameFileIdTable:
       SMALLER TABLE SPRITESHEET_0: 5362347147305247450
       SMALLER TABLE SPRITESHEET_1: -6564482654466913574

@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 818daff883270e149850d955e78a44f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1668989281187367513
+    second: Roomba moving spritesheet_0
+  - first:
+      213: -4738938942022532983
+    second: Roomba moving spritesheet_1
+  - first:
+      213: 8215154432215867693
+    second: Roomba moving spritesheet_2
+  - first:
+      213: 3688702721372662284
+    second: Roomba moving spritesheet_3
+  - first:
+      213: -3668387099329899431
+    second: Roomba moving spritesheet_4
+  - first:
+      213: 7766237743473447974
+    second: Roomba moving spritesheet_5
+  - first:
+      213: 4796555510315676034
+    second: Roomba moving spritesheet_6
+  - first:
+      213: -2594851560015105384
+    second: Roomba moving spritesheet_7
+  - first:
+      213: -8249554594265917596
+    second: Roomba moving spritesheet_8
+  - first:
+      213: -6288220878005902043
+    second: Roomba moving spritesheet_9
+  - first:
+      213: -8015576814561856762
+    second: Roomba moving spritesheet_10
+  - first:
+      213: -2712974847416270606
+    second: Roomba moving spritesheet_11
+  - first:
+      213: 2107185370104084739
+    second: Roomba moving spritesheet_12
+  - first:
+      213: -3221011000728375791
+    second: Roomba moving spritesheet_13
+  - first:
+      213: 8735780652149626291
+    second: Roomba moving spritesheet_14
+  - first:
+      213: -8624540135060526412
+    second: Roomba moving spritesheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 582
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a574e8671f86d8e0800000000000000
+      internalID: -1668989281187367513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 576
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9804b74e328eb3eb0800000000000000
+      internalID: -4738938942022532983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 582
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21e33b2e67120270800000000000000
+      internalID: 8215154432215867693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 576
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a2f6dd497e03330800000000000000
+      internalID: 3688702721372662284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 420
+        width: 174
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954d0dd7e55471dc0800000000000000
+      internalID: -3668387099329899431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 414
+        width: 174
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62457f4941837cb60800000000000000
+      internalID: 7766237743473447974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 420
+        width: 174
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281fec9c2d9c09240800000000000000
+      internalID: 4796555510315676034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 414
+        width: 174
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8927e68114c3dfbd0800000000000000
+      internalID: -2594851560015105384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 198
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4679695fdc1b38d80800000000000000
+      internalID: -8249554594265917596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52563498d60cbb8a0800000000000000
+      internalID: -6288220878005902043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 198
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603fe220b53f2c090800000000000000
+      internalID: -8015576814561856762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 192
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f00f2f00c3995ad0800000000000000
+      internalID: -2712974847416270606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 174
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30934f40ee93e3d10800000000000000
+      internalID: 2107185370104084739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 30
+        width: 174
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ea5fb7f8bac43d0800000000000000
+      internalID: -3221011000728375791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 36
+        width: 174
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5db1f083abb3970800000000000000
+      internalID: 8735780652149626291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roomba moving spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 30
+        width: 174
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba2e92217a7f4880800000000000000
+      internalID: -8624540135060526412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Roomba moving spritesheet_0: -1668989281187367513
+      Roomba moving spritesheet_1: -4738938942022532983
+      Roomba moving spritesheet_10: -8015576814561856762
+      Roomba moving spritesheet_11: -2712974847416270606
+      Roomba moving spritesheet_12: 2107185370104084739
+      Roomba moving spritesheet_13: -3221011000728375791
+      Roomba moving spritesheet_14: 8735780652149626291
+      Roomba moving spritesheet_15: -8624540135060526412
+      Roomba moving spritesheet_2: 8215154432215867693
+      Roomba moving spritesheet_3: 3688702721372662284
+      Roomba moving spritesheet_4: -3668387099329899431
+      Roomba moving spritesheet_5: 7766237743473447974
+      Roomba moving spritesheet_6: 4796555510315676034
+      Roomba moving spritesheet_7: -2594851560015105384
+      Roomba moving spritesheet_8: -8249554594265917596
+      Roomba moving spritesheet_9: -6288220878005902043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

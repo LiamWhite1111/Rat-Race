@@ -1,37 +1,33 @@
 using UnityEngine;
+using UnityEngine.AI;
 
 public class CatAI : MonoBehaviour
 {
-    public float catSpeed = 2f;
-    Rigidbody2D rb;
-    Transform target;
-    Vector2 moveDirection;
+    public float minSpeed = 1f;
+    public float maxSpeed = 6f;
+    private NavMeshAgent agent;
+    private Transform target;
 
-    private void Awake(){
-        rb = GetComponent<Rigidbody2D>();
+    private void Awake()
+    {
+        agent = GetComponent<NavMeshAgent>();
+        agent.updateRotation = false;
+        agent.updateUpAxis = false;
     }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
     void Start()
     {
         target = GameObject.Find("Player").transform;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if(target){
-            Vector3 direction = (target.position - transform.position).normalized;
-            moveDirection = direction;
-
-            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-            rb.rotation = angle;
-        }
-        
-    }
-
-    private void FixedUpdate(){
-        if(target){
-            rb.linearVelocity = new Vector2(moveDirection.x, moveDirection.y) * catSpeed;
+        if (target)
+        {
+            float distance = Vector3.Distance(transform.position, target.position);
+            float t = 1 - Mathf.Clamp01(distance / 10f);
+            agent.speed = Mathf.Lerp(minSpeed, maxSpeed, t);
+            agent.SetDestination(target.position);
         }
     }
 }

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4920784293331274603}
   - component: {fileID: 1905343218765789131}
   - component: {fileID: 1512495968792553654}
+  - component: {fileID: -3555665103488604928}
   m_Layer: 0
   m_Name: Dog
   m_TagString: Enemy
@@ -82,7 +83,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
   m_Color: {r: 0.6415094, g: 0.3164872, b: 0.26830417, a: 1}
@@ -172,3 +173,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DogAI
   dogSpeed: 2
   radius: 6
+--- !u!195 &-3555665103488604928
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4335816239788590513}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 1
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4

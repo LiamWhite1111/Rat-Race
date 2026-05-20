@@ -6,8 +6,6 @@ public class GameUI : MonoBehaviour
     public TextMeshProUGUI cheeseCount;
     public TextMeshProUGUI Objective;
     private Inventory inventory;
-    public TextMeshProUGUI gameOver;
-    public bool isLastLevel = false;
 
     void Start()
     {

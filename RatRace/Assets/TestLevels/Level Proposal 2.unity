@@ -1342,7 +1342,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.7735849, g: 0.37219644, b: 0.37219644, a: 1}
+  m_Color: {r: 0.7735849, g: 0.37219644, b: 0.37219644, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1631,7 +1631,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.38141286, g: 0.8159957, b: 0.836478, a: 1}
+  m_Color: {r: 0.38141286, g: 0.8159957, b: 0.836478, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1869,7 +1869,7 @@ GameObject:
   - component: {fileID: 1087248869}
   - component: {fileID: 1087248871}
   - component: {fileID: 1087248872}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Armchair 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1925,8 +1925,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.30980393, g: 0.30980393, b: 0.30980393, a: 1}
+  m_Sprite: {fileID: 4266240524800909034, guid: 9409a723c86f2a041a6550086958d876, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1943,13 +1943,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1087248868}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -0, z: 0.7071068, w: -0.7071068}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -16.01, y: 1.03, z: -1}
-  m_LocalScale: {x: 4.2924542, y: 3.7874603, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 7.583479, y: 6.691306, z: 1.7667}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 270}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1087248871
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1984,17 +1984,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.005831778, y: -0.023132801}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 0.65625, y: 0.875}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.61510146, y: 0.75545335}
   m_EdgeRadius: 0
 --- !u!114 &1087248872
 MonoBehaviour:
@@ -2533,7 +2533,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.7735849, g: 0.37219644, b: 0.37219644, a: 1}
+  m_Color: {r: 0.7735849, g: 0.37219644, b: 0.37219644, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2624,7 +2624,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.38141286, g: 0.8159957, b: 0.836478, a: 1}
+  m_Color: {r: 0.38141286, g: 0.8159957, b: 0.836478, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2799,7 +2799,7 @@ GameObject:
   - component: {fileID: 1314426391}
   - component: {fileID: 1314426393}
   - component: {fileID: 1314426394}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Piano soundboard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3080,7 +3080,7 @@ GameObject:
   - component: {fileID: 1475161741}
   - component: {fileID: 1475161743}
   - component: {fileID: 1475161744}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Armchair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3136,8 +3136,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.30980393, g: 0.30980393, b: 0.30980393, a: 1}
+  m_Sprite: {fileID: -4165283234376802877, guid: 9409a723c86f2a041a6550086958d876, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3155,9 +3155,9 @@ Transform:
   m_GameObject: {fileID: 1475161740}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: 0.3826836, w: -0.92387944}
-  m_LocalPosition: {x: 13, y: 5.35, z: -1}
-  m_LocalScale: {x: 4.2924542, y: 3.7874603, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalPosition: {x: 12.997, y: 5.35, z: -1}
+  m_LocalScale: {x: 6.952265, y: 6.134352, z: 1.619648}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 315}
@@ -3195,17 +3195,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.003044203, y: 0.009809136}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 0.78125, y: 0.8125}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.7016729, y: 0.7248707}
   m_EdgeRadius: 0
 --- !u!114 &1475161744
 MonoBehaviour:
@@ -3743,7 +3743,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.38141286, g: 0.8159957, b: 0.836478, a: 1}
+  m_Color: {r: 0.38141286, g: 0.8159957, b: 0.836478, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -4217,7 +4217,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.7735849, g: 0.37219644, b: 0.37219644, a: 1}
+  m_Color: {r: 0.7735849, g: 0.37219644, b: 0.37219644, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

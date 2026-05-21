@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 6e818233a2d982e46b2f018422d2c55e
+guid: c6620d8281d98bc418ff9ebc416015da
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7250016266500204006
-    second: Dog Walking Up_0
+      213: -6332333804784891702
+    second: Cat Walking Down Test_0
   - first:
-      213: 6019157348658817573
-    second: Dog Walking Up_1
+      213: -4435032346206307232
+    second: Cat Walking Down Test_1
   - first:
-      213: 1262444855029252552
-    second: Dog Walking Up_2
+      213: 8981093608393547509
+    second: Cat Walking Down Test_2
   - first:
-      213: -7178882843738224010
-    second: Dog Walking Up_3
+      213: 1842739517867666787
+    second: Cat Walking Down Test_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,89 +109,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dog Walking Up_0
+      name: Cat Walking Down Test_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 2
-        width: 16
-        height: 28
+        x: 14
+        y: 17
+        width: 62
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a1a937b2e94c26b90800000000000000
-      internalID: -7250016266500204006
+      spriteID: ac8499664f70f18a0800000000000000
+      internalID: -6332333804784891702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog Walking Up_1
+      name: Cat Walking Down Test_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 3
-        width: 16
-        height: 27
+        x: 110
+        y: 17
+        width: 62
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 52aadfdb7b7588350800000000000000
-      internalID: 6019157348658817573
+      spriteID: 06c710534999372c0800000000000000
+      internalID: -4435032346206307232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog Walking Up_2
+      name: Cat Walking Down Test_2
       rect:
         serializedVersion: 2
-        x: 72
-        y: 2
-        width: 16
-        height: 28
+        x: 206
+        y: 17
+        width: 62
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c1c98c28ea158110800000000000000
-      internalID: 1262444855029252552
+      spriteID: 5fe14de8d0143ac70800000000000000
+      internalID: 8981093608393547509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog Walking Up_3
+      name: Cat Walking Down Test_3
       rect:
         serializedVersion: 2
-        x: 105
-        y: 3
-        width: 16
-        height: 27
+        x: 302
+        y: 17
+        width: 62
+        height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67a46d6c61c7f5c90800000000000000
-      internalID: -7178882843738224010
+      spriteID: 36da31804d9b29910800000000000000
+      internalID: 1842739517867666787
       vertices: []
       indices: 
       edges: []
@@ -200,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8eb844b108990814f823534051388f6a
     internalID: 0
     vertices: []
     indices: 
@@ -210,10 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Dog Walking Up_0: -7250016266500204006
-      Dog Walking Up_1: 6019157348658817573
-      Dog Walking Up_2: 1262444855029252552
-      Dog Walking Up_3: -7178882843738224010
+      Cat Walking Down Test_0: -6332333804784891702
+      Cat Walking Down Test_1: -4435032346206307232
+      Cat Walking Down Test_2: 8981093608393547509
+      Cat Walking Down Test_3: 1842739517867666787
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

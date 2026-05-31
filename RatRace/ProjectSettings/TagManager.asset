@@ -46,5 +46,8 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Front
+    uniqueID: 2056055087
+    locked: 0
   m_RenderingLayers:
   - Default

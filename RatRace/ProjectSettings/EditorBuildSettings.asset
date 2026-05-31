@@ -6,17 +6,29 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/TestLevels/Main Menu.unity
+    path: Assets/TestLevels/(0)Main Menu.unity
     guid: 2915b17086839284e878bb5ce3318696
   - enabled: 1
-    path: Assets/TestLevels/Level Proposal 4.unity
+    path: Assets/TestLevels/(1)Level Proposal 4 (Tutorial).unity
+    guid: e940109fc50dd404381e3fe508ee21e6
+  - enabled: 1
+    path: Assets/TestLevels/(2)Level Proposal 4 (Room 1 level 1).unity
     guid: 731647316706e6b4488178da37e5ab94
   - enabled: 1
-    path: Assets/TestLevels/Level Proposal 2.unity
+    path: Assets/TestLevels/(3)Level Proposal 2 (Room 2 Level 1).unity
     guid: 1a87c9d70c705bc4682e46a9c0352e74
   - enabled: 1
-    path: Assets/TestLevels/Level Proposal 3.unity
+    path: Assets/TestLevels/(4)Level Proposal 3 (Room 3 Level 1).unity
     guid: 088afd0b26abb8e42aed066b93ddb97c
+  - enabled: 1
+    path: Assets/TestLevels/(5)Level Proposal 4 (Room 1 level 2).unity
+    guid: 5449777334a3b8e43bbd26d3dda09f4b
+  - enabled: 1
+    path: Assets/TestLevels/(6)Level Proposal 2 (Room 2 Level 2).unity
+    guid: 04da2b1d27d00ad4eacbb64ead63aaa7
+  - enabled: 1
+    path: Assets/TestLevels/(7)Level Proposal 3 (Room 1 Level 3).unity
+    guid: 7f4bfef3fa7fe4048b1c2cc10e068da4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

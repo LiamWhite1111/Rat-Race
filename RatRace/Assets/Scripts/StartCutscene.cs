@@ -8,7 +8,6 @@ public class StartCutscene : MonoBehaviour
     public GameObject objectiveText;
     public AudioClip cutsceneSound;
     public string[] lines;
-    public float startDelay = 3f;
     private int currentLine = 0;
     private bool cutsceneActive = false;
     private AudioSource audioSource;
@@ -16,14 +15,18 @@ public class StartCutscene : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
-        if (lines.Length == 0) return;
+        if (cutscenePanel != null) cutscenePanel.SetActive(false);
         if (objectiveText != null) objectiveText.SetActive(false);
-        StartCoroutine(DelayedStart());
     }
 
-    private System.Collections.IEnumerator DelayedStart()
+    public void Begin()
     {
-        yield return new WaitForSecondsRealtime(startDelay);
+        if (lines.Length == 0)
+        {
+            Time.timeScale = 1f;
+            if (objectiveText != null) objectiveText.SetActive(true);
+            return;
+        }
         Time.timeScale = 0f;
         cutscenePanel.SetActive(true);
         cutsceneActive = true;

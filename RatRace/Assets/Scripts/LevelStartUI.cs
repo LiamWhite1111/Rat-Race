@@ -19,6 +19,14 @@ public class LevelStartUI : MonoBehaviour
     {
         yield return new WaitForSecondsRealtime(3f);
         levelStartPanel.SetActive(false);
-        Time.timeScale = 1f;
+        StartCutscene cutsceneScript = FindObjectOfType<StartCutscene>();
+        if (cutsceneScript != null)
+        {
+            cutsceneScript.Begin();
+        }
+        else
+        {
+            Time.timeScale = 1f;
+        }
     }
 }

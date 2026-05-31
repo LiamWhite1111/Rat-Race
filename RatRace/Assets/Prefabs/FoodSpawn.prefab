@@ -50,4 +50,4 @@ MonoBehaviour:
   maxX: 18.5
   minY: -10.5
   maxY: 10.5
-  spawnRadius: 0.5
+  spawnRadius: 0.1

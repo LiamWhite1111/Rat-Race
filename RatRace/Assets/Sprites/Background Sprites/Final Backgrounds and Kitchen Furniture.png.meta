@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 45caccca067326b4cbd604520ab78a3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6241459817997291566
+    second: Final Backgrounds and Kitchen Furniture_0
+  - first:
+      213: 1031502066332196941
+    second: Final Backgrounds and Kitchen Furniture_1
+  - first:
+      213: -1336230294349433410
+    second: Final Backgrounds and Kitchen Furniture_2
+  - first:
+      213: 2453594572273345357
+    second: Final Backgrounds and Kitchen Furniture_3
+  - first:
+      213: -317654791242305984
+    second: Final Backgrounds and Kitchen Furniture_4
+  - first:
+      213: 2880779290252501362
+    second: Final Backgrounds and Kitchen Furniture_5
+  - first:
+      213: 6221004258631115857
+    second: Final Backgrounds and Kitchen Furniture_6
+  - first:
+      213: 2926178874903244554
+    second: Final Backgrounds and Kitchen Furniture_7
+  - first:
+      213: 34014321922956733
+    second: Final Backgrounds and Kitchen Furniture_8
+  - first:
+      213: 5014329006312139205
+    second: Final Backgrounds and Kitchen Furniture_9
+  - first:
+      213: 8042569927236369131
+    second: Final Backgrounds and Kitchen Furniture_10
+  - first:
+      213: -2151613031532781145
+    second: Final Backgrounds and Kitchen Furniture_11
+  - first:
+      213: 682903062788540407
+    second: Final Backgrounds and Kitchen Furniture_12
+  - first:
+      213: -6807051067690100845
+    second: Final Backgrounds and Kitchen Furniture_13
+  - first:
+      213: 2703094879495734825
+    second: Final Backgrounds and Kitchen Furniture_14
+  - first:
+      213: 4213157652190840160
+    second: Final Backgrounds and Kitchen Furniture_15
+  - first:
+      213: 5338444095321486982
+    second: Final Backgrounds and Kitchen Furniture_16
+  - first:
+      213: -6206365602523695611
+    second: Final Backgrounds and Kitchen Furniture_17
+  - first:
+      213: -7944736223423349975
+    second: Final Backgrounds and Kitchen Furniture_18
+  - first:
+      213: 6638689642095227725
+    second: Final Backgrounds and Kitchen Furniture_19
+  - first:
+      213: -4718121282994733202
+    second: Final Backgrounds and Kitchen Furniture_20
+  - first:
+      213: -1258655127989491525
+    second: Final Backgrounds and Kitchen Furniture_21
+  - first:
+      213: -3528975424413454840
+    second: Final Backgrounds and Kitchen Furniture_22
+  - first:
+      213: 4568288400300466727
+    second: Final Backgrounds and Kitchen Furniture_23
+  - first:
+      213: -6277795954305662723
+    second: Final Backgrounds and Kitchen Furniture_24
+  - first:
+      213: 7653022367788881306
+    second: Final Backgrounds and Kitchen Furniture_25
+  - first:
+      213: 3598968188473479756
+    second: Final Backgrounds and Kitchen Furniture_26
+  - first:
+      213: 3334446983107844371
+    second: Final Backgrounds and Kitchen Furniture_27
+  - first:
+      213: 3218512462258615120
+    second: Final Backgrounds and Kitchen Furniture_28
+  - first:
+      213: 2346557724844546666
+    second: Final Backgrounds and Kitchen Furniture_29
+  - first:
+      213: -5210753903762444699
+    second: Final Backgrounds and Kitchen Furniture_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa56c3d51e169a0800000000000000
+      internalID: -6241459817997291566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 912
+        width: 192
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40efc80aa1a05e00800000000000000
+      internalID: 1031502066332196941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5bf2f70a1c47de0800000000000000
+      internalID: -1336230294349433410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 912
+        width: 192
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43ed27834bec0220800000000000000
+      internalID: 2453594572273345357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 12
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e2dce76a6779bf0800000000000000
+      internalID: -317654791242305984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 672
+        width: 12
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2716dcf50859af720800000000000000
+      internalID: 2880779290252501362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 12
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15466e5b962755650800000000000000
+      internalID: 6221004258631115857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 672
+        width: 12
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2cd3ee20eb9820800000000000000
+      internalID: 2926178874903244554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd5e7778d7d87000800000000000000
+      internalID: 34014321922956733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c92c280aa9769540800000000000000
+      internalID: 5014329006312139205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beab92accb2fc9f60800000000000000
+      internalID: 8042569927236369131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 191
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a12369f85fe322e0800000000000000
+      internalID: -2151613031532781145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f78989a7b82a7900800000000000000
+      internalID: 682903062788540407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39753668e1f7881a0800000000000000
+      internalID: -6807051067690100845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 192
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9264586a872538520800000000000000
+      internalID: 2703094879495734825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 420
+        width: 192
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065cd89ff84287a30800000000000000
+      internalID: 4213157652190840160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 12
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6863be2de96f51a40800000000000000
+      internalID: 5338444095321486982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 192
+        width: 12
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5063f530e5f8ed9a0800000000000000
+      internalID: -6206365602523695611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 12
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b3ca07f70aeb190800000000000000
+      internalID: -7944736223423349975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 12
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43b6236e0d512c50800000000000000
+      internalID: 6638689642095227725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_20
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 288
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f73e7d0bdd58eb0800000000000000
+      internalID: -4718121282994733202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8667964db588ee0800000000000000
+      internalID: -1258655127989491525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 48
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ea0ce7c8f860fc0800000000000000
+      internalID: -3528975424413454840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7226273a812d56f30800000000000000
+      internalID: 4568288400300466727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df00a3b37d9c0e8a0800000000000000
+      internalID: -6277795954305662723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 48
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95dc2acb4ff43a60800000000000000
+      internalID: 7653022367788881306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4294efcf7a12f130800000000000000
+      internalID: 3598968188473479756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 48
+        width: 24
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319148e4dd5564e20800000000000000
+      internalID: 3334446983107844371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_28
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 95
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053b71238047aac20800000000000000
+      internalID: 3218512462258615120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_29
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ade4271d5a09020800000000000000
+      internalID: 2346557724844546666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Backgrounds and Kitchen Furniture_30
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e624aaeeeafa7b0800000000000000
+      internalID: -5210753903762444699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c6f41a5f432c2747b72888da7cc8a9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Final Backgrounds and Kitchen Furniture_0: -6241459817997291566
+      Final Backgrounds and Kitchen Furniture_1: 1031502066332196941
+      Final Backgrounds and Kitchen Furniture_10: 8042569927236369131
+      Final Backgrounds and Kitchen Furniture_11: -2151613031532781145
+      Final Backgrounds and Kitchen Furniture_12: 682903062788540407
+      Final Backgrounds and Kitchen Furniture_13: -6807051067690100845
+      Final Backgrounds and Kitchen Furniture_14: 2703094879495734825
+      Final Backgrounds and Kitchen Furniture_15: 4213157652190840160
+      Final Backgrounds and Kitchen Furniture_16: 5338444095321486982
+      Final Backgrounds and Kitchen Furniture_17: -6206365602523695611
+      Final Backgrounds and Kitchen Furniture_18: -7944736223423349975
+      Final Backgrounds and Kitchen Furniture_19: 6638689642095227725
+      Final Backgrounds and Kitchen Furniture_2: -1336230294349433410
+      Final Backgrounds and Kitchen Furniture_20: -4718121282994733202
+      Final Backgrounds and Kitchen Furniture_21: -1258655127989491525
+      Final Backgrounds and Kitchen Furniture_22: -3528975424413454840
+      Final Backgrounds and Kitchen Furniture_23: 4568288400300466727
+      Final Backgrounds and Kitchen Furniture_24: -6277795954305662723
+      Final Backgrounds and Kitchen Furniture_25: 7653022367788881306
+      Final Backgrounds and Kitchen Furniture_26: 3598968188473479756
+      Final Backgrounds and Kitchen Furniture_27: 3334446983107844371
+      Final Backgrounds and Kitchen Furniture_28: 3218512462258615120
+      Final Backgrounds and Kitchen Furniture_29: 2346557724844546666
+      Final Backgrounds and Kitchen Furniture_3: 2453594572273345357
+      Final Backgrounds and Kitchen Furniture_30: -5210753903762444699
+      Final Backgrounds and Kitchen Furniture_4: -317654791242305984
+      Final Backgrounds and Kitchen Furniture_5: 2880779290252501362
+      Final Backgrounds and Kitchen Furniture_6: 6221004258631115857
+      Final Backgrounds and Kitchen Furniture_7: 2926178874903244554
+      Final Backgrounds and Kitchen Furniture_8: 34014321922956733
+      Final Backgrounds and Kitchen Furniture_9: 5014329006312139205
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

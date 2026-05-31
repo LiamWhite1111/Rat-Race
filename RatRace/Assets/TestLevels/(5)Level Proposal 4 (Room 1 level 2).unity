@@ -1115,7 +1115,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: "Granny doesn't seem well... \nif something happens to her, who will leave
+    out my breakfast?"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1601,6 +1602,7 @@ MonoBehaviour:
   objectiveText: {fileID: 1409164738}
   cutsceneSound: {fileID: 8300000, guid: 3fa330d7cf4aea843a1bf86a86f7966c, type: 3}
   lines:
+  - test
   - test
 --- !u!82 &620790268
 AudioSource:

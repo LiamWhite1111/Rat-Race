@@ -2174,7 +2174,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: '*...It''s for the best, Granny...*
+
+    *...We can take care of the house...*'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4206,6 +4208,7 @@ MonoBehaviour:
   cutsceneSound: {fileID: 8300000, guid: 2ecf251f6c1f14c4783525d934fb4080, type: 3}
   lines:
   - test
+  - test
   nextSceneIndex: 7
 --- !u!82 &1512100693
 AudioSource:
@@ -4820,8 +4823,7 @@ Transform:
   m_LocalPosition: {x: -9.02, y: 17, z: -1}
   m_LocalScale: {x: 3.2583, y: 3.2583, z: 0}
   m_ConstrainProportionsScale: 1
-  m_Children:
-  - {fileID: 1502955580}
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1757098958
@@ -6323,3 +6325,4 @@ SceneRoots:
   - {fileID: 19452731}
   - {fileID: 1493186651}
   - {fileID: 1851843365}
+  - {fileID: 636972201}

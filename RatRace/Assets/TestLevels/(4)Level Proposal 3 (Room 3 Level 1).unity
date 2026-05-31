@@ -383,7 +383,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: '*... Where is it now? ... I know I left it here...*
+
+    *...They''re
+    playing tricks on me...* '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4001,6 +4004,7 @@ MonoBehaviour:
   cutsceneSound: {fileID: 8300000, guid: e395a59089d27ed4f8c19208b2d455b0, type: 3}
   lines:
   - Test
+  - Test
   nextSceneIndex: 5
 --- !u!82 &1169983881
 AudioSource:
@@ -7381,7 +7385,6 @@ SceneRoots:
   - {fileID: 1402810126}
   - {fileID: 203036669}
   - {fileID: 1692034965}
-  - {fileID: 1776765822}
   - {fileID: 1437145142}
   - {fileID: 985630677}
   - {fileID: 450025858}

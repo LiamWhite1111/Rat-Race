@@ -567,9 +567,9 @@ MonoBehaviour:
   objectiveText: {fileID: 453014971}
   cutsceneSound: {fileID: 8300000, guid: 3fa330d7cf4aea843a1bf86a86f7966c, type: 3}
   lines:
-  - test
-  - test
-  - test
+  - 
+  - 
+  - 
 --- !u!4 &160164619
 Transform:
   m_ObjectHideFlags: 0
@@ -2195,6 +2195,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: b9b23d8aa4f5e8b41a886dd900c5bdde, type: 2}
+    - target: {fileID: 399355631170911962, guid: 9c79bab9560bc914b92d4847965c9ecd, type: 3}
+      propertyPath: speed
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 399355631170911962, guid: 9c79bab9560bc914b92d4847965c9ecd, type: 3}
       propertyPath: walkSound
       value: 
@@ -6574,7 +6578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c25955d303360a040ba73c0abe13ce18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CatAI
-  minSpeed: 4
+  minSpeed: 6
   maxSpeed: 8
 --- !u!82 &1959389632
 AudioSource:
@@ -6746,7 +6750,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.15
-  m_Speed: 4
+  m_Speed: 5
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120

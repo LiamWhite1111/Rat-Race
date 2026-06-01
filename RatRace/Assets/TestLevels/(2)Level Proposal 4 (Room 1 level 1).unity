@@ -1314,8 +1314,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Hmmm, time for breakfast...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c02575f8c5f77f64d9c9b655291657b6, type: 2}
+  m_sharedMaterial: {fileID: 6654437804201789495, guid: c02575f8c5f77f64d9c9b655291657b6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1731,8 +1731,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c02575f8c5f77f64d9c9b655291657b6, type: 2}
+  m_sharedMaterial: {fileID: 6654437804201789495, guid: c02575f8c5f77f64d9c9b655291657b6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4511,8 +4511,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Press Enter to continue
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c02575f8c5f77f64d9c9b655291657b6, type: 2}
+  m_sharedMaterial: {fileID: 6654437804201789495, guid: c02575f8c5f77f64d9c9b655291657b6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

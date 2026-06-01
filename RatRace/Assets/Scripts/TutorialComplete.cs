@@ -13,12 +13,14 @@ public class TutorialComplete : MonoBehaviour
     public void ShowTutorialComplete()
     {
         tutorialCompleteUI.SetActive(true);
+        Time.timeScale = 0f;
         StartCoroutine(LoadNextLevel());
     }
 
     private System.Collections.IEnumerator LoadNextLevel()
     {
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSecondsRealtime(3f);
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

@@ -319,7 +319,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6902830110346046517, guid: 9c79bab9560bc914b92d4847965c9ecd, type: 3}
       propertyPath: maxinv
-      value: 3
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6902830110346046517, guid: 9c79bab9560bc914b92d4847965c9ecd, type: 3}
+      propertyPath: requiredFood
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3527,11 +3531,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6569488666695467472, guid: 9216d282f471c184cbe7317e75b3849f, type: 3}
       propertyPath: foodCount
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6569488666695467472, guid: 9216d282f471c184cbe7317e75b3849f, type: 3}
       propertyPath: spawnRadius
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6569488666695467472, guid: 9216d282f471c184cbe7317e75b3849f, type: 3}
       propertyPath: minDistanceBetweenFood
